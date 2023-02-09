@@ -1,0 +1,39 @@
+body{
+    background-color: #ECF9FF;
+}
+img{
+    width: 80px;
+    height: 80px;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 10%;
+
+}
+h1{
+    color: #63BFBF;
+    text-align: justify;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-thickness: auto;
+}
+h2{
+    color: #63BFBF;
+    text-align: justify;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-thickness: auto;
+}
+h3{
+    color: #63BFBF;
+    text-align: justify;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-thickness: auto;
+}
+img{
+    background-color: red;
+}
